@@ -8,6 +8,7 @@ public class HashtableApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HashtableApplication.class, args);
+		System.out.println("Application Run...");
 	}
 
 }
